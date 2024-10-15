@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SushantoBiswas
+- 👋 Hi, I’m @Sushanto-Biswas
 - 👀 I’m interested in Python, HTML, CSS, Javascript, C & C++
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Python projects
